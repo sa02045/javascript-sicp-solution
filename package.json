@@ -1,0 +1,24 @@
+{
+  "name": "javascript-sicp-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2.54.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sa02045/javascript-sicp-solution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sa02045/javascript-sicp-solution/issues"
+  },
+  "homepage": "https://github.com/sa02045/javascript-sicp-solution#readme",
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "vitest": "^0.34.6"
+  }
+}
